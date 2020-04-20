@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: bd8828306d157e54a903bee74db4dfad
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: map_3.osm_areas_pedestrian
+    100004: map_3.osm_buildings
+    100006: map_3.osm_buildings_top
+    100008: map_3.osm_coastlines
+    100010: map_3.osm_paths_footway
+    100012: map_3.osm_roads_other
+    100014: map_3.osm_roads_pedestrian
+    100016: map_3.osm_roads_primary
+    100018: map_3.osm_roads_residential
+    100020: map_3.osm_roads_service
+    100022: map_3.osm_roads_tertiary
+    100024: map_3.osm_vegetation
+    100026: map_3.osm_water
+    100028: profile_paths_footway
+    100030: profile_roads_other
+    100032: profile_roads_pedestrian
+    100034: profile_roads_primary
+    100036: profile_roads_residential
+    100038: profile_roads_service
+    100040: profile_roads_tertiary
+    100042: Terrain
+    100044: Terrain_envelope
+    400000: //RootNode
+    400002: map_3.osm_areas_pedestrian
+    400004: map_3.osm_buildings
+    400006: map_3.osm_buildings_top
+    400008: map_3.osm_coastlines
+    400010: map_3.osm_paths_footway
+    400012: map_3.osm_roads_other
+    400014: map_3.osm_roads_pedestrian
+    400016: map_3.osm_roads_primary
+    400018: map_3.osm_roads_residential
+    400020: map_3.osm_roads_service
+    400022: map_3.osm_roads_tertiary
+    400024: map_3.osm_vegetation
+    400026: map_3.osm_water
+    400028: profile_paths_footway
+    400030: profile_roads_other
+    400032: profile_roads_pedestrian
+    400034: profile_roads_primary
+    400036: profile_roads_residential
+    400038: profile_roads_service
+    400040: profile_roads_tertiary
+    400042: Terrain
+    400044: Terrain_envelope
+    2100000: wall
+    2100002: areas_pedestrian
+    2100004: roads_residential
+    2100006: roads_service
+    2100008: roads_tertiary
+    2100010: paths_footway
+    2100012: roads_primary
+    2100014: roads_pedestrian
+    2100016: roads_other
+    2100018: vegetation
+    2100020: water
+    2100022: roof
+    2100024: overlay.004
+    2100026: No Name
+    2300000: map_3.osm_areas_pedestrian
+    2300002: map_3.osm_buildings
+    2300004: map_3.osm_buildings_top
+    2300006: map_3.osm_coastlines
+    2300008: map_3.osm_paths_footway
+    2300010: map_3.osm_roads_other
+    2300012: map_3.osm_roads_pedestrian
+    2300014: map_3.osm_roads_primary
+    2300016: map_3.osm_roads_residential
+    2300018: map_3.osm_roads_service
+    2300020: map_3.osm_roads_tertiary
+    2300022: map_3.osm_vegetation
+    2300024: map_3.osm_water
+    2300026: profile_paths_footway
+    2300028: profile_roads_other
+    2300030: profile_roads_pedestrian
+    2300032: profile_roads_primary
+    2300034: profile_roads_residential
+    2300036: profile_roads_service
+    2300038: profile_roads_tertiary
+    2300040: Terrain
+    2300042: Terrain_envelope
+    3300000: map_3.osm_areas_pedestrian
+    3300002: map_3.osm_buildings
+    3300004: map_3.osm_buildings_top
+    3300006: map_3.osm_coastlines
+    3300008: map_3.osm_paths_footway
+    3300010: map_3.osm_roads_other
+    3300012: map_3.osm_roads_pedestrian
+    3300014: map_3.osm_roads_primary
+    3300016: map_3.osm_roads_residential
+    3300018: map_3.osm_roads_service
+    3300020: map_3.osm_roads_tertiary
+    3300022: map_3.osm_vegetation
+    3300024: map_3.osm_water
+    3300026: profile_paths_footway
+    3300028: profile_roads_other
+    3300030: profile_roads_pedestrian
+    3300032: profile_roads_primary
+    3300034: profile_roads_residential
+    3300036: profile_roads_service
+    3300038: profile_roads_tertiary
+    3300040: Terrain
+    3300042: Terrain_envelope
+    4300000: map_3.osm_buildings
+    4300002: map_3.osm_areas_pedestrian
+    4300004: map_3.osm_roads_residential
+    4300006: map_3.osm_roads_service
+    4300008: map_3.osm_roads_tertiary
+    4300010: map_3.osm_coastlines
+    4300012: map_3.osm_paths_footway
+    4300014: map_3.osm_roads_primary
+    4300016: map_3.osm_roads_pedestrian
+    4300018: map_3.osm_roads_other
+    4300020: map_3.osm_vegetation
+    4300022: map_3.osm_water
+    4300024: map_3.osm_buildings_top
+    4300026: profile_roads_primary
+    4300028: profile_roads_tertiary
+    4300030: profile_roads_residential
+    4300032: profile_paths_footway
+    4300034: profile_roads_service
+    4300036: profile_roads_pedestrian
+    4300038: profile_roads_other
+    4300040: Terrain
+    4300042: Terrain_envelope
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
